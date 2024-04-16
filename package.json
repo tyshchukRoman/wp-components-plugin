@@ -1,0 +1,15 @@
+{
+    "name": "wp-components",
+    "version": "1.0.0",
+    "author": "Michiel Tramper",
+    "description": "The package for WP-Components",
+    "devDependencies": {
+        "@wordpress/scripts": "^24.6.0",
+        "ts-loader": "^9.2.6",
+        "typescript": "^4.5.4"
+    },
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start"
+    }
+}
